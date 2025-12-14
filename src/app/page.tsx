@@ -6,7 +6,7 @@ import {useState} from "react";
 export default function Home() {
   const [count, setCount] = useState(0);
   return (
-    <div className="min-h-screen bg-gradient-to-br from-[#52C755] to-[#33A036] flex flex-col">
+    <div className="min-h-screen bg-linear-to-br from-[#52C755] to-[#33A036] flex flex-col">
       <main className="flex min-h-screen flex-col items-center justify-center py-32 px-16">
         <div className="flex flex-col items-center gap-6 text-center">
           <h1 className={"text-6xl self-center my-10"}>Bush Clicker</h1>
