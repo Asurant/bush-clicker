@@ -1,3 +1,7 @@
+This is a React website made using the Haxmas day 1 tutorial found at https://haxmas.hackclub.com/day/1
+
+To access the site go to https://bush-clicker.vercel.app/
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
