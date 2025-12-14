@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Geist, Geist_Mono, Playfair } from "next/font/google";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -32,3 +32,10 @@ export default function RootLayout({
     </html>
   );
 }
+
+
+const myFont = Playfair({
+  subsets: ["latin"],
+  weight: "variable",
+  variable: "--font-playfair",
+});
