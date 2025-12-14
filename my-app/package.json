@@ -1,5 +1,5 @@
 {
-  "name": "christmas-clicker-game",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -21,6 +21,6 @@
     "eslint": "^9",
     "eslint-config-next": "16.0.10",
     "tailwindcss": "^4",
-    "typescript": "^5.9.3"
+    "typescript": "^5"
   }
 }
